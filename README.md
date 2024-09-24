@@ -1,3 +1,7 @@
+Welcome to this project.  It's a game based on the teachings of the book, "Never Split the Difference: Negotiating as If Your Life Depended On It" by Chris Voss (Author), Tahl Raz (Author) Link to book can be found here: https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805
+
+This game was built to aid me (commercial real estate broker) in having better conversations and practicing negotiation skills in my daily workflow. It was built using Claude 3.5 Sonnet and lacks completion.  It would be nice to have this with a power dialer so as to make more calls, have better conversations, hone critical negotiation skills and do more business.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
